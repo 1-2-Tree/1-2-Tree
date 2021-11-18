@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @1-2-Tree
 - 👀 I’m interested in Reverse-Enginering, App Developing, Coding
 - 🌱 I’m currently learning all things.
+- 💻 Beginner on App Developing.
 
 - All Repo and projects i created will be posted here soon but now i still study it.
 
